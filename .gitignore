@@ -1,0 +1,7 @@
+node_modules
+dist
+dist-ssr
+*.local
+scratch/
+presencial_students.json
+MATRIZ CONSOLIDADA COMPLETA 2026-1 (1)_ORIGINAL_BACKUP.xlsm
